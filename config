@@ -1,0 +1,2 @@
+[DEFAULT] user=ocid1.user.oc1..aaaaaaaavbc4hr3qnejdexr56m3axync5mkxjzeko4q7clecold3ce2cf5zq fingerprint=50:5d:13:aa:6b:57:90:85:bc:b1:c4:1a:2e:7c:b3:ad tenancy=ocid1.tenancy.oc1..aaaaaaaat2gi6mcpae6u7gq7qczn3ykkb25ftjmgilh6midbpwo4k6eqwmla region=ap-singapore-1 key_file=oci.pem
+ # TODO
